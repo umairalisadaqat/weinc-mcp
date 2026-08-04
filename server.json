@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.umairalisadaqat/weinc",
+  "title": "WeInc",
+  "description": "Manage WeInc AI website builder orgs: projects, publishing, custom domains, and previews.",
+  "version": "1.0.0",
+  "websiteUrl": "https://we.inc",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://my.we.inc/api/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer token using your WeInc organization API key (wk_...) from the dashboard",
+          "isRequired": true,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
