@@ -34,4 +34,4 @@ Organization management: list/inspect projects, publish sites, manage custom dom
 
 ## About WeInc
 
-[WeInc](https://we.inc) generates complete production websites (React, hosted, custom domains) from a prompt. Flat monthly pricing — no token metering, failed generations never billed — plus white-label for agencies.
+[WeInc](https://we.inc) generates complete production websites (React, hosted, custom domains) from a prompt. Flat monthly pricing — with hosting and custom domains included — plus white-label for agencies.
