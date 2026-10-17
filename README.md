@@ -27,6 +27,29 @@ claude mcp add weinc --transport http https://my.we.inc/api/mcp
 }
 ```
 
+## Quick start (Cline)
+
+Open Cline, click **MCP Servers** > **Remote Servers**, and add:
+
+- **Server name:** `weinc`
+- **Server URL:** `https://my.we.inc/api/mcp`
+- **Transport:** Streamable HTTP
+
+Or edit `cline_mcp_settings.json` directly:
+
+```json
+{
+  "mcpServers": {
+    "weinc": {
+      "type": "streamableHttp",
+      "url": "https://my.we.inc/api/mcp"
+    }
+  }
+}
+```
+
+The first time a tool needs your account, Cline opens a WeInc sign-in in your browser.
+
 ## Tools
 
 - **Websites:** `start_website`, `find_templates`, `my_websites`, `website_details`, `request_change`
