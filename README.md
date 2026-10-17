@@ -35,4 +35,4 @@ claude mcp add weinc --transport http https://my.we.inc/api/mcp
 
 ## About WeInc
 
-[WeInc](https://we.inc) generates complete production websites (hosted, custom domains) from a prompt, with white-label for agencies.
+[WeInc](https://we.inc) generates complete production websites (hosted, custom domains) from a prompt. Flat monthly pricing, with hosting and custom domains included, plus white-label for agencies.
