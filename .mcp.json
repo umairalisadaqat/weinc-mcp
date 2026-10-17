@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "weinc": {
+      "url": "https://my.we.inc/api/mcp"
+    }
+  }
+}
