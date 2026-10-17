@@ -59,3 +59,11 @@ The first time a tool needs your account, Cline opens a WeInc sign-in in your br
 ## About WeInc
 
 [WeInc](https://we.inc) generates complete production websites (hosted, custom domains) from a prompt. Flat monthly pricing, with hosting and custom domains included, plus white-label for agencies.
+
+## Quick start (Gemini CLI)
+
+```bash
+gemini extensions install https://github.com/umairalisadaqat/weinc-mcp
+```
+
+Gemini CLI opens a WeInc sign-in the first time you use a tool (or run `/mcp auth weinc`).

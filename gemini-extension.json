@@ -1,0 +1,10 @@
+{
+  "name": "weinc",
+  "version": "1.0.0",
+  "description": "Build and manage WeInc (we.inc) AI-built websites: start builds, browse templates, check publishing, and prepare edits. Hosted server with WeInc OAuth sign-in.",
+  "mcpServers": {
+    "weinc": {
+      "httpUrl": "https://my.we.inc/api/mcp"
+    }
+  }
+}
